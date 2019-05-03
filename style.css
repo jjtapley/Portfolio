@@ -1,0 +1,14 @@
+header,
+nav,
+div {
+	color: black;
+	font-family: ariel;
+}
+
+
+li {
+	display: inline;
+	float:right;
+	padding: 40px;
+	text-decoration: none;
+}
